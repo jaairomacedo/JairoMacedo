@@ -24,9 +24,9 @@ author:
   avatar           : "profile.photo.png"
   name             : "Jairo Macedo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Master student in Economics"
+  location         : "Recife, Brazil"
+  employer         : "Federal University Of Pernambuco"
   uri              : # URL
   email            : "Jairo.Macedo@ufpe.br" 
 
@@ -34,18 +34,18 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.pt/citations?hl=en&user=7wXz7AYAAAAJ&view_op=list_works&gmla=AC6lMd9_Qmmc0Gl5we_fyKWHVya2FodLsyNul7Mys7MsHLyJAa4DLakEeu7jftsEMDBcweKtJMd-1TnwF-dK_SZq"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-9119-562X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Jairo-Macedo"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "jaairomacedo"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : "jairomacedo"  
+  stackoverflow    : "23083047" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "jairomacedo" # Replace this with you Bluesky username
