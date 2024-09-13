@@ -37,15 +37,15 @@ author:
   orcid            : "https://orcid.org/0009-0008-9119-562X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Jairo-Macedo"
+  researchgate     : #"https://www.researchgate.net/profile/Jairo-Macedo"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "jaairomacedo"
-  kaggle           : "jairomacedo"  
-  stackoverflow    : "23083047" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : #"jairomacedo"  
+  stackoverflow    : #"23083047" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : #"jairomacedo"
